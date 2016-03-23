@@ -1,0 +1,25 @@
+{
+	"name": "default-debug",
+	"version": "1.0.0",
+	"description": "Enable specified debug functions by default",
+	"main": "index.js",
+	"keywords": [
+		"debug"
+	],
+	"repository": {
+		"url": "git@github.com:maciejkulinski/default-debug.git",
+		"type": "git"
+	},
+	"author": {
+		"name": "Maciej Kulinski",
+		"email": "maciej.kulinski@s4rb.com"
+	},
+	"license": "BSD",
+	"readmeFilename": "README.md",
+	"maintainers": [
+		{
+			"name": "azer",
+			"email": "azer@kodfabrik.com"
+		}
+	],
+}
