@@ -1,25 +1,22 @@
 {
-	"name": "default-debug",
-	"version": "1.0.0",
-	"description": "Enable specified debug functions by default",
-	"main": "index.js",
-	"keywords": [
-		"debug"
-	],
-	"repository": {
-		"url": "git@github.com:maciejkulinski/default-debug.git",
-		"type": "git"
-	},
-	"author": {
-		"name": "Maciej Kulinski",
-		"email": "maciej.kulinski@s4rb.com"
-	},
-	"license": "BSD",
-	"readmeFilename": "README.md",
-	"maintainers": [
-		{
-			"name": "azer",
-			"email": "azer@kodfabrik.com"
-		}
-	]
+  "name": "@s4rb/default-debug",
+  "version": "1.0.0",
+  "description": "Enable specified debug functions by default",
+  "main": "index.js",
+  "keywords": [
+    "debug"
+  ],
+  "repository": {
+    "url": "git+ssh://git@github.com/S4RB/default-debug.git",
+    "type": "git"
+  },
+  "author": "Maciej Kulinski <maciej.kulinski@s4rb.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/maciejkulinski/default-debug/issues"
+  },
+  "homepage": "https://github.com/maciejkulinski/default-debug#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
